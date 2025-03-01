@@ -1,0 +1,60 @@
+{
+    "articles": [
+        {
+            "articleName": "Rust: The New Programming Language Revolutionizing Systems Development",
+            "articleDetail": "Rust is gaining popularity due to its memory safety features and performance. It offers modern concurrency features while ensuring zero-cost abstractions.",
+            "dateTime": "2025-03-01T12:00:00Z"
+        },
+        {
+            "articleName": "Web Scraping with Python: A Beginner’s Guide",
+            "articleDetail": "Python's BeautifulSoup and Scrapy make web scraping easier. Learn how to extract useful information from websites with these tools.",
+            "dateTime": "2025-03-01T13:00:00Z"
+        },
+        {
+            "articleName": "JavaScript Frameworks: Which One Should You Choose in 2025?",
+            "articleDetail": "React, Vue, and Svelte continue to dominate the JavaScript ecosystem. This article explores their pros and cons for web development.",
+            "dateTime": "2025-03-01T14:00:00Z"
+        },
+        {
+            "articleName": "AI and Machine Learning Trends in 2025",
+            "articleDetail": "Discover how AI is shaping industries with new advancements in deep learning, reinforcement learning, and generative models.",
+            "dateTime": "2025-03-01T15:00:00Z"
+        },
+        {
+            "articleName": "The Rise of No-Code and Low-Code Platforms",
+            "articleDetail": "No-code and low-code platforms are making software development accessible to non-programmers, enabling rapid application development.",
+            "dateTime": "2025-03-01T16:00:00Z"
+        },
+        {
+            "articleName": "Cybersecurity Threats to Watch Out for in 2025",
+            "articleDetail": "With cyberattacks on the rise, organizations must stay ahead of new threats like AI-powered hacking and quantum computing vulnerabilities.",
+            "dateTime": "2025-03-01T17:00:00Z"
+        },
+        {
+            "articleName": "Blockchain Beyond Cryptocurrencies",
+            "articleDetail": "Blockchain is being used in supply chain management, healthcare, and finance beyond just cryptocurrencies. Learn about its real-world applications.",
+            "dateTime": "2025-03-01T18:00:00Z"
+        },
+        {
+            "articleName": "The Future of Cloud Computing",
+            "articleDetail": "Cloud computing is evolving with serverless architectures, edge computing, and hybrid cloud solutions driving digital transformation.",
+            "dateTime": "2025-03-01T19:00:00Z"
+        },
+        {
+            "articleName": "5G and the Future of Connectivity",
+            "articleDetail": "5G is revolutionizing mobile networks, enabling faster data speeds, lower latency, and enhanced IoT connectivity.",
+            "dateTime": "2025-03-01T20:00:00Z"
+        },
+        {
+            "articleName": "Quantum Computing: How Close Are We?",
+            "articleDetail": "Quantum computing promises breakthroughs in problem-solving and encryption. This article explores current developments and challenges.",
+            "dateTime": "2025-03-01T21:00:00Z"
+        },
+        {
+            "articleName": "Metaverse: Hype or Reality?",
+            "articleDetail": "The metaverse is being developed by tech giants, but is it the future of digital interaction, or just a passing trend?",
+            "dateTime": "2025-03-01T22:00:00Z"
+        }
+    ]
+ }
+ 
